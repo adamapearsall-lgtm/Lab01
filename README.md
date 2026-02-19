@@ -1,9 +1,9 @@
 # Lab 1
 
-#Hello World
-## Compile
+##Hello World
+### Compile
 gcc -nostdlib -no-pie print_hello.s -o hello
-## Run
+### Run
 ./hello
 
 #Task 1
